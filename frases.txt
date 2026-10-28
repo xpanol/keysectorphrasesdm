@@ -1,0 +1,60 @@
+// ==========================================================
+// FRASES CLAVE DEL SECTOR | SECTOR KEY PHRASES
+// Aqui solo escribes texto. No hay codigo.
+//
+// REGLAS (solo 3):
+// 1. Una situacion empieza con #  y su titulo:   # TITULO ES | TITLE EN
+// 2. Cada frase son DOS lineas seguidas: primero español, luego inglés.
+// 3. Deja una linea en blanco entre una frase y la siguiente.
+//
+// Las lineas que empiezan con // son notas y se ignoran.
+// Guarda el archivo siempre en formato UTF-8 (para las tildes y la ñ).
+// Una situacion sin frases queda como tarjeta "en preparacion".
+// Puedes usar cualquier signo: comillas " ", apostrofes, &, etc.
+// ==========================================================
+
+
+# EVALUAR RESULTADOS | EVALUATING RESULTS
+
+// EJEMPLOS: sustituir o borrar
+Los resultados superan las expectativas iniciales.
+The results exceed initial expectations.
+
+La tasa de conversión ha subido un 12 % respecto al mes pasado.
+The conversion rate is up 12% compared to last month.
+
+Estamos algo por debajo del objetivo, pero la tendencia es positiva.
+We are slightly below target, but the trend is positive.
+
+
+# PROPONER UNA SOLUCIÓN | PROPOSING A SOLUTION
+
+
+# EXPLICAR LAS CAUSAS | EXPLAIN THE CAUSES
+
+
+# ANALIZAR LOS DATOS | ANALYSING THE DATA
+
+
+# REVISAR UNA CAMPAÑA | REVIEWING A CAMPAIGN
+
+
+# DAR FEEDBACK | GIVING FEEDBACK
+
+
+# DISCREPAR CON UN CLIENTE | DISAGREEING WITH A CLIENT
+
+
+# GESTIONAR LAS EXPECTATIVAS | MANAGING EXPECTATIONS
+
+
+# PEDIR MÁS TIEMPO | ASKING FOR MORE TIME
+
+
+# GESTIONAR UN CAMBIO DE ÚLTIMA HORA | HANDLING A LAST-MINUTE CHANGE
+
+
+# JUSTIFICAR UNA DECISIÓN | JUSTIFYING A DECISION
+
+
+# CERRAR UNA CONVERSACIÓN | WRAPPING THINGS UP
