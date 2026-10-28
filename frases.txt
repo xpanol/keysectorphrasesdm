@@ -37,6 +37,25 @@ The data doesn't reflect the effort we've put in.
 
 
 # PROPONER UNA SOLUCIÓN | PROPOSING A SOLUTION
+@video: videos/proposing-a-solution.mp4
+
+Una opción sería cambiar el enfoque. | 
+One option would be to shift our approach.
+
+Podríamos plantearnos otra estrategia. | 
+We could consider a different strategy.
+
+Lo que propongo es empezar por lo más urgente. | 
+What I'm suggesting is we start with what's most urgent.
+
+Quizás valdría la pena intentar algo diferente. | 
+It might be worth trying something different.
+
+Mi propuesta sería abordar esto desde otro ángulo. | 
+My proposal would be to tackle this from a different angle.
+
+Hay una alternativa que creo que merece la pena explorar. | 
+There's an alternative I think is worth exploring.
 
 
 # EXPLICAR LAS CAUSAS | EXPLAIN THE CAUSES
