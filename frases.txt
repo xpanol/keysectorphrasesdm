@@ -16,15 +16,23 @@
 
 # EVALUAR RESULTADOS | EVALUATING RESULTS
 
-// EJEMPLOS: sustituir o borrar
-Los resultados superan las expectativas iniciales.
-The results exceed initial expectations.
+Los resultados no están cumpliendo nuestras expectativas. |
+The results aren't meeting our expectations.
 
-La tasa de conversión ha subido un 12 % respecto al mes pasado.
-The conversion rate is up 12% compared to last month.
+Los números no acompañan. | 
+The numbers aren't where they need to be.
 
-Estamos algo por debajo del objetivo, pero la tendencia es positiva.
-We are slightly below target, but the trend is positive.
+Estamos por debajo de los objetivos marcados. | 
+We're falling short of our targets.
+
+La estrategia no está rindiendo como esperábamos. | 
+Things aren't performing as expected.
+
+No estamos viendo el impacto esperado. | 
+We're not seeing the impact we hoped for.
+
+Los datos no reflejan el esfuerzo invertido. | 
+The data doesn't reflect the effort we've put in.
 
 
 # PROPONER UNA SOLUCIÓN | PROPOSING A SOLUTION
